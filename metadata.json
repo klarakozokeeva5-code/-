@@ -1,0 +1,6 @@
+{
+  "name": "Голубой Иссык-Куль",
+  "description": "Кереметтүү Ысык-Көлдүн жээгиндеги Голубой Иссык-Куль санаторийинин расмий брондоо жана маалымат баракчасы.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
